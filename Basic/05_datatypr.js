@@ -60,10 +60,10 @@
 // //     age: 22,
 // // }
 
-// // const myFunction = function(){
-// //     console.log("Hello world");
-// // }
-// // console.log( typeof myFunction);
+// const myFunction = function(){
+//     console.log("Hello world");
+// }
+// console.log( typeof myFunction);
 
 // // console.log(typeof anotherId);
 
